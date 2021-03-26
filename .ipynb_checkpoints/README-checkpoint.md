@@ -1,6 +1,6 @@
 # Sobre mí
 
-Mi nombre es Fabián Ramírez, soy estudiante de 5 año de Ingeniería Civil Matemática de la Universidad Técnica Féderico Santa María, soy del área de la estadística y mis temas afines son la inferencia estadística, estadística espacial, estadística espacio-temporal, regresión y ciencia de datos.
+Mi nombre es Fabián Ramírez, Soy estudiante de 5 año de Ingeniería Civil Matemática de la Universidad Técnica Féderico Santa María, soy del área de la estadística y mis temas afines son la inferencia estadística, estadística espacial, estadística espacio-temporal, regresión y ciencia de datos.
 
 **Experiencia**
 
